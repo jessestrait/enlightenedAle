@@ -1,0 +1,58 @@
+h1 {
+  
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Lilita One', cursive;
+  margin: 0px;
+}
+
+body {
+  margin: 0px;
+  font-family: 'Merienda', cursive;
+  font-size: 1.7em;
+  background-color: white ;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+	position: relative;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+ 	margin-right: auto;
+  padding: 0px;
+}
+
+img {
+	position: relative;
+  display: block;
+  margin-left: auto;
+ 	margin-right: auto;
+}
+
+input {
+  width: 100%;
+  margin: 0px auto;
+}
+
+ul {
+  position: relative;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+  margin-right: auto;
+}
+.button {
+  background-color: #cc33ff; 
+  border: none;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+/*#ae8ef1*/
